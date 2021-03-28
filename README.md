@@ -1,5 +1,15 @@
 # Awesome Project Build with TypeORM
 
+## Technologies
+Project is created with:
+* Typescript
+* Nodejs
+* Expressjs
+* PostgreSql
+* TypeORM
+
+Frontend-Files: [GithubRepo](https://github.com/myamann/tasklist-frontend-Typescript-ReactJs)
+
 Steps to run this project:
 
 1. Run `npm i` command and install all files
@@ -8,4 +18,4 @@ Steps to run this project:
 4. Run `npm run dev` for development mode
 5. Run `npm start` command
 
-Client-Files: [GithubRepo](https://github.com/myamann/tasklist-frontend-Typescript-ReactJs)
+
